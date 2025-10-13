@@ -3,5 +3,9 @@ public class Main {
         System.out.println("este es mi primer proyecto");
         System.out.println("este es mi main");
         System.out.println("este es mi");
+        System.out.println("este es mi primer proyecto");
+        System.out.println("este es mi main");
+        System.out.println("este es mi");
+    
     }
 }
